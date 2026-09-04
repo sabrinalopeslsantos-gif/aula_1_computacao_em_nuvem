@@ -1,0 +1,9 @@
+Uma universidade quer criar um novo sistema para que alunos consultem:
+notas;
+faltas;
+horários;
+disciplinas.
+A universidade possui uma equipe de desenvolvimento, mas não quer administrar servidores.
+Qual modelo vocês escolheriam?
+
+R: A tendência é PaaS, considerando as condições apresentadas.
