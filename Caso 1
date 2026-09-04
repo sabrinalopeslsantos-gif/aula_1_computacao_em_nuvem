@@ -1,0 +1,11 @@
+Uma startup desenvolveu uma aplicação web.
+A equipe possui poucos desenvolvedores e não quer perder tempo administrando servidores ou sistemas operacionais.
+Ela quer:
+desenvolver;
+publicar;
+atualizar a aplicação.
+Qual modelo vocês escolheriam?
+IaaS, PaaS ou SaaS?
+Justifique.
+
+R: PaaS, pois ele gerencia toda a infraestrutura subjacente, assim permitindo o foco exclusivamente em desenvolver, publicar e atualizar o código.
