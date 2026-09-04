@@ -1,1 +1,1 @@
-# aula_1_computacao_em_nuvem
+# aula_computacao_em_nuvem
