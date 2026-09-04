@@ -1,0 +1,10 @@
+Uma empresa possui um sistema antigo que:
+depende de Linux;
+exige configurações específicas;
+precisa de controle sobre o sistema operacional;
+será migrado para a nuvem.
+Qual modelo?
+IaaS, PaaS ou SaaS?
+
+
+R: Iaas
