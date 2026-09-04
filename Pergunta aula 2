@@ -1,0 +1,19 @@
+Uma empresa precisa de:
+E-mail corporativo
+Sistema próprio desenvolvido pela equipe
+Servidor Linux com configuração especial
+Ela precisa escolher um único modelo para tudo?
+
+R: NÃO.
+Uma arquitetura pode combinar diferentes modelos:
+E-mail
+↓
+SaaS
+
+Aplicação própria
+↓
+PaaS
+
+Servidor especial
+↓
+IaaS
